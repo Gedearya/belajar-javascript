@@ -28,3 +28,18 @@ if (angka / 2) {
 }
 
 // comment this line
+
+let job = "proggramer";
+switch (job) {
+  case "proggramer":
+    console.log("Ngoding");
+    break;
+  case "designer":
+    console.log("Mendesain");
+    break;
+  default:
+    console.log("Menganggur");
+}
+
+let angkaBulat = 7;
+let angkaDesimal = 7.5;
