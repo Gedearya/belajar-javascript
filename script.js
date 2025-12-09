@@ -43,3 +43,12 @@ switch (job) {
 
 let angkaBulat = 7;
 let angkaDesimal = 7.5;
+
+let namaDepan = "I Gede Arya";
+let namaBelakang = "Danny Pratama";
+
+console.log(namaDepan + " " + namaBelakang);
+console.log(`Nama lengkap saya adalah \n ${namaDepan} ${namaBelakang}.`);
+
+console.log('"I Gede Arya"');
+console.log("'I Gede Arya'");
